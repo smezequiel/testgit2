@@ -1,2 +1,2 @@
-y = 24
-print(y)
+y = 25
+print(y)    
