@@ -1,2 +1,4 @@
 y = 25
-print(y)    
+z = 2
+print(y)
+print(z)
